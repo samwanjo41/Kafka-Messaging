@@ -1,0 +1,20 @@
+server:
+  port: 8050
+
+topic:
+  name: t.food.order
+
+spring:
+  kafka:
+    consumer:
+      group-id: "default"
+  jpa:
+    database: POSTGRESQL
+    show-sql: true
+    hibernate:
+      ddl-auto: 'create-drop'
+  datasource:
+    url: jdbc:postgresql://localhost:5432/kafka
+    username: postgres
+    password: 2019@wan
+    driver-class-name: org.postgresql.Driver
