@@ -1,5 +1,6 @@
 # Kafka-Messaging 
-https://miro.medium.com/max/1400/1*BsN81p7EOBf-1L2BVgTCbQ.png
+![alt text](https://miro.medium.com/max/1400/1*BsN81p7EOBf-1L2BVgTCbQ.png)
+
 
 ## About The Project
 
